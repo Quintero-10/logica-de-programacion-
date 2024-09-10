@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+'ingrese el valor de los productos'
+5
+1
+6
+e1, c2
+6
+2
+3
+IVA
+16
+(e1 + c2) * 0.19
+5
+total
+15
+(e1 + c2) + IVA
+4
+1
+33
+'el valor total de los productos'
+4
+1
+5
+total
+1

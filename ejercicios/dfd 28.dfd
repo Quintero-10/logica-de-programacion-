@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+22
+'valor de los equipos'
+5
+1
+6
+c1, c2
+6
+2
+3
+IVA
+16
+(c1 + c2) * 0.19
+5
+total
+15
+(c1 + c2) + IVA
+4
+1
+21
+'su valor a pagar es'
+4
+1
+5
+total
+1

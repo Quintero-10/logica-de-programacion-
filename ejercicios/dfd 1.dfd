@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+'inserte el valor de los productos'
+5
+1
+10
+p1, p2, p3
+6
+3
+6
+descp2
+9
+p2 * 0.15
+3
+pv2
+11
+p2 - descp2
+11
+total_pagar
+13
+p1 + pv2 + p3
+4
+1
+18
+'total a pagar es'
+4
+1
+11
+total_pagar
+1

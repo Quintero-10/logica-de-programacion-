@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+'introduce el valor de las prendas'
+5
+1
+10
+z1, z2, c3
+6
+2
+4
+desc
+16
+c3 - (c3 * 0.50)
+11
+valor_total
+14
+z1 + z2 + desc
+4
+1
+27
+'su valor total a pagar es'
+4
+1
+11
+valor_total
+1
